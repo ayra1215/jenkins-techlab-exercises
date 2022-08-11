@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Greeting') {
             steps {
-                echo 'savta em galgalim!'
+                echo 'savta em galgalim! noder'
             }
         }
     }
